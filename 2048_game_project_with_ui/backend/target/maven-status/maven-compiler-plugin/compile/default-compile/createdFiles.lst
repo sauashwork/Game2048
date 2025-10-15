@@ -1,0 +1,7 @@
+com\example\game2048\model\GameState.class
+com\example\game2048\util\Direction.class
+com\example\game2048\Game2048Application.class
+com\example\game2048\controller\GameController.class
+com\example\game2048\service\GameService$MoveResult.class
+com\example\game2048\service\GameService$1.class
+com\example\game2048\service\GameService.class
