@@ -84,6 +84,6 @@ Smooth animations
 - shadcn-ui
 - Tailwind CSS
 
-## Outcome Evidence
+**Outcome Evidence**
 ![Game Board](my-game-2048/image.png)
 ![Score Share](my-game-2048/image-1.png)
