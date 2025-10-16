@@ -85,6 +85,6 @@ Smooth animations
 - Tailwind CSS
 
 **Outcome Evidence**
-![Game Board](my-game-2048/image.png)
+- ![Game Board](my-game-2048/image.png)
 
-![Score Share](my-game-2048/image-1.png)
+- ![Score Share](my-game-2048/image-1.png)
