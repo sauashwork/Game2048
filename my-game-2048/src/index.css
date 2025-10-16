@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 220 25% 10%;
+    --foreground: 210 40% 98%;
+
+    --card: 220 20% 15%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 220 20% 15%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 262 83% 58%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 220 15% 25%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 220 15% 20%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 195 92% 52%;
+    --accent-foreground: 220 25% 10%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 220 15% 25%;
+    --input: 220 15% 25%;
+    --ring: 262 83% 58%;
+
+    --radius: 0.75rem;
+
+    /* Game-specific tokens */
+    --tile-empty: 220 15% 20%;
+    --tile-2: 48 96% 53%;
+    --tile-4: 45 93% 47%;
+    --tile-8: 36 100% 50%;
+    --tile-16: 28 100% 50%;
+    --tile-32: 16 100% 50%;
+    --tile-64: 5 100% 50%;
+    --tile-128: 48 100% 67%;
+    --tile-256: 45 100% 51%;
+    --tile-512: 36 100% 40%;
+    --tile-1024: 262 83% 58%;
+    --tile-2048: 282 83% 58%;
+    --tile-super: 195 92% 52%;
+
+    --game-bg: 220 25% 12%;
+    --board-bg: 220 20% 18%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.relative{
+  color: lightblue;
+}
