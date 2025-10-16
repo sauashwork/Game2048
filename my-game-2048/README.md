@@ -77,13 +77,13 @@ Responsive design with Tailwind CSS
 Smooth animations
 
 
-## What technologies are used for this project?
+**What technologies are used for this project**
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
 
-**Outcome Evidence**
+## Outcome Evidence
 ![Game Board](my-game-2048/image.png)
 ![Score Share](my-game-2048/image-1.png)
