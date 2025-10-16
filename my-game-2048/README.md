@@ -78,12 +78,12 @@ Smooth animations
 
 
 **What technologies are used for this project**
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Vite
+TypeScript
+React
+shadcn-ui
+Tailwind CSS
 
 **Outcome Evidence**
-![Game Board](my-game-2048/image.png)
-![Score Share](my-game-2048/image-1.png)
+![Game Board](image.png)
+![Score Share](image-1.png)
