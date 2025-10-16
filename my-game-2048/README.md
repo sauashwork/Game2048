@@ -86,4 +86,5 @@ Smooth animations
 
 **Outcome Evidence**
 ![Game Board](image.png)
+
 ![Score Share](image-1.png)
