@@ -167,7 +167,7 @@ const Index = () => {
       />
 
       <Card className="p-6 bg-card/50 backdrop-blur-sm border-2">
-        <GameBoard board={board} size={boardSize} />
+        <GameBoard board={board} size={boardSize} onMove={handleMove} />
       </Card>
 
       {gameOver && (
